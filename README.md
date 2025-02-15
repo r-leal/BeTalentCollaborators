@@ -23,3 +23,8 @@ Tela inicial de splash screen usando expo-splash-screen
     </code>
   </pre>
 </div>
+
+## Ícones
+Usando as bibliotecas para renderizar ícones do asstes baixados do Figma:
+- [react-native-svg](https://github.com/software-mansion/react-native-svg)
+- [react-native-svg-transformer](https://www.npmjs.com/package/react-native-svg-transformer)
